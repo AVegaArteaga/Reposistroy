@@ -1,0 +1,61 @@
+Script started on 2020-02-20 18:10:09-0600
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git config --global user.email "you@example.com"git config --global useer.email "you@example.com"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit config --global user.email "you@example.com"[K[K[K[K[K"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"a"b"e"l"v"e"a"[1P"g"a"1"0"2"@"g","a"[1P"[1P"m"a"i"l"."c"[1P"c"o"m"
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ -g[K-g[K[K[Kgit config -[K--global uer.[K[K[Ke[Kser.email [K[K[K[K[K[Kname ""a"v"e"a"g"[1P"[1P"g"a"[1P"[1P"[1P"[1P"[1P"[C"[KA"V"e"g"a"A"r"t"e"a"g"a"
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git config --global user.name "AVegaArteaga"email "abelvega102@gmail.com"[10Pname "AVegaArteaga"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit config --global user.name "AVegaArteaga"email "abelvega102@gmail.com"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kss[K[Kgit commit -a -m "Added Abel.txt"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	[31mAbel.txt[m
+	[31mtypescript[m
+
+nothing added to commit but untracked files present
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ gt [K[Kit add Av[Kbel.txt  [Kty[K[K[K
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git commit -a -m "Added Abel.txt"
+[master 22e5dc4] Added Abel.txt
+ 1 file changed, 2 insertions(+)
+ create mode 100644 Abel.txt
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git ps[Kush 
+Username for 'https://github.com': AVee gaArteaga
+Password for 'https://AVegaArteaga@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/AVegaArteaga/Reposistroy.git/'
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ Im[K[Kgit push 
+Username for 'https://github.com': Ave  VegaArteaga
+Password for 'https://AVegaArteaga@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/AVegaArteaga/Reposistroy.git/'
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git push commit -a -m "Added Abel.txt"push [K
+Username for 'https://github.com': AVegaArteaga
+Password for 'https://AVegaArteaga@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 317 bytes | 317.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/AVegaArteaga/Reposistroy.git
+   2280941..22e5dc4  master -> master
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ ls
+Abel.txt  README.md  typescript
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ [K]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ [K]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ ls [K[K[Kcat typescript 
+Script started on 2020-02-20 18:10:09-0600
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git config --global user.email "you@example.com"git config --global useer.email "you@example.com"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit config --global user.email "you@example.com"[K[K[K[K[K"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"a"b"e"l"v"e"a"[1P"g"a"1"0"2"@"g","a"[1P"[1P"m"a"i"l"."c"[1P"c"o"m"
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ -g[K-g[K[K[Kgit config -[K--global uer.[K[K[Ke[Kser.email [K[K[K[K[K[Kname ""a"v"e"a"g"[1P"[1P"g"a"[1P"[1P"[1P"[1P"[1P"[C"[KA"V"e"g"a"A"r"t"e"a"g"a"
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ git config --global user.name "AVegaArteaga"email "abelvega102@gmail.com"[10Pname "AVegaArteaga"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit config --global user.name "AVegaArteaga"email "abelvega102@gmail.com"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kss[K[Kgit commit -a -m "Added Abel.txt"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	[31mAbel.txt[m
+	[31mtypescript[m
+
+nothing added to commit but untracked files present
+]0;avega@DESKTOP-OFH3O58: ~/git/demo[01;32mavega@DESKTOP-OFH3O58[00m:[01;34m~/git/demo[00m$ gt [K[Kit
